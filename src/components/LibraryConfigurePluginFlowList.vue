@@ -1,4 +1,3 @@
-
 <template>
 
   <!-- START PLUGIN TYPES LIST-->
