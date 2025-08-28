@@ -1,3 +1,4 @@
+
 <template>
 
   <!-- START PLUGIN TYPES LIST-->
@@ -278,13 +279,5 @@ export default {
 
 .ghost {
   opacity: 0;
-}
-</style>
-
-<style scoped>
-.dialog-sticky-header {
-  position: sticky;
-  top: 0;
-  z-index: 100;
 }
 </style>
